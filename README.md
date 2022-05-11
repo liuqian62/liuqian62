@@ -58,13 +58,12 @@ Here are some ideas to get you started: -->
     * demo演示地址，github地址 
 
 ## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
+* 二等奖学金
+* 扫地机器人创新方案一等奖
+* 2022华为软件精英挑战赛（成渝赛区32强）
 
 ## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
+* github 地址 (https://github.com/liuqian62)
 
 ## 其他信息 
 * 喜欢钻研技术 等等
