@@ -50,7 +50,7 @@ Here are some ideas to get you started: -->
 
 ### 1. 面向智能扫地机器人的同时定位与建图算法研究（项目成员） 2021.01-2021.12
 #### 开发工具
- * Linux,ROS,OpenCV,MSCKF,vins_mono
+ * Linux, ROS, OpenCV, MSCKF, vins_mono
 #### 编程语言
  * C++  
 #### 项目描述
@@ -69,7 +69,7 @@ Here are some ideas to get you started: -->
 
 ### 2. 面向低纹理场景的室内机器人鲁棒定位系统及算法（独立完成） 2021.01-2021.12
 #### 开发工具
- * Linux,ROS,OpenCV,MSCKF,vins_mono
+ * Linux, ROS, OpenCV, MSCKF, vins_mono
 #### 编程语言
  * C++  
 #### 项目描述
