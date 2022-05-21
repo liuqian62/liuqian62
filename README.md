@@ -69,7 +69,7 @@ Here are some ideas to get you started: -->
 
 ### 2. 面向低纹理场景的室内机器人鲁棒定位系统及算法（独立完成） 2021.01-2021.12
 #### 开发工具
- * Linux, ROS, OpenCV, MSCKF, vins_mono
+ * Linux、ROS 、OpenCV、OpenVINS、GMS
 #### 编程语言
  * C++  
 #### 项目描述
