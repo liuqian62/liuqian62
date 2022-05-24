@@ -22,13 +22,13 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 
  <center>
-     <h1>简历模板</h1>
+     <h1>李琦</h1>
  </center>
 
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
-* 手 机：1552803xxxx &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：`lirich674@gmail.com`/`2833919126@qq.com  `
+* 手 机：15528038009 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：`lirich674@gmail.com`/`2833919126@qq.com  `
 * 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：SLAM算法工程师
 
 ## 工作及教育经历
