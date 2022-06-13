@@ -12,4 +12,4 @@
 # 学习&兴趣
 * [视频处理软件](https://www.bilibili.com/video/BV1ut411S7j7?p=1&vd_source=16d2a5d2fd87591e8453c2b777cfe9af)
 * [拍摄技巧学习](https://www.bilibili.com/video/BV1pv411H78e?p=1&vd_source=16d2a5d2fd87591e8453c2b777cfe9af)
-* [搭建服务器](192.168.0.1)
+* [搭建服务器](https://192.168.0.1)
