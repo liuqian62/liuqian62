@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...
 - 📫 How to reach me: `lirich674@gmail.com`
 - 😄 [学习笔记](https://github.com/liuqian62/notebook)
-<!-- - [注册简历](./个人信息.md) -->
+- [个人网站](https://liuqian62.github.io/)
 - ⚡ Fun fact: ...
 
  <center>
