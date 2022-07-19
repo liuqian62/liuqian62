@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: `lirich674@gmail.com`
 - 😄 [学习笔记](https://github.com/liuqian62/notebook)
-- 😄[个人网站](https://liuqian62.github.io/)
+<!-- - 😄[个人网站](https://liuqian62.github.io/) -->
 
 
  <center>
