@@ -77,8 +77,8 @@
 
 
 ## 获奖/实践情况
-* 2022华为软件精英挑战赛成渝赛区二等奖--[开源代码](https://github.com/liuqian62/codecraft2022)
-* 2022中兴捧月算法比赛未来网络方向区域优胜奖--[开源代码](https://github.com/liuqian62/zhongxing_second)
+* 2022华为软件精英挑战赛成渝赛区二等奖--[代码已开源](https://github.com/liuqian62/codecraft2022)
+* 2022中兴捧月算法比赛未来网络方向区域优胜奖--[代码已开源](https://github.com/liuqian62/zhongxing_second)
 * 扫地机器人创新方案一等奖
 * 研究生入学考试专业课第一
 * 研究生二等奖学金
