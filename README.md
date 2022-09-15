@@ -8,6 +8,15 @@
 - 😄 [学习笔记](https://github.com/liuqian62/notebook)
 <!-- - 😄[个人网站](https://liuqian62.github.io/) -->
 
+**近期任务：**
+* 刷题
+* 八股
+* 面试
+* 投简历
+* 采数据
+* 处理数据
+* 做实验
+
 
  <center>
      <h1>李琦</h1>
