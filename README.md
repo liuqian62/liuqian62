@@ -1,3 +1,7 @@
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=liuqian62&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqian62">
+</p>
 <div >
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liuqian62&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
