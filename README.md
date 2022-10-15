@@ -2,7 +2,9 @@
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=liuqian62&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuqian62">
 </p>
-[![Star History Chart](https://api.star-history.com/svg?username=liuqian62&type=Date)](https://star-history.com/#digoal/blog&Date)  
+
+[![Star History Chart](https://api.star-history.com/svg?repos=liuqian62/notebook&type=Date)](https://star-history.com/#digoal/blog&Date) 
+
 <div >
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liuqian62&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
