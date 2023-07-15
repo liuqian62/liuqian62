@@ -17,9 +17,9 @@
 
 **近期任务：**
 
-* 采数据
-* 处理数据
-* 做实验
+* 高精度建图
+* 割草机对桩
+* lidar里程计转伪经纬度
 
 ---
 ---
@@ -31,7 +31,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
 * 手 机：15528038009 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 邮 箱：`lirich674@gmail.com`/`2833919126@qq.com  `
-* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：?
+* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：slam算法工程师
 
 ## 工作及教育经历
 
