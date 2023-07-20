@@ -29,7 +29,7 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
 * 手 机：15528038009 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 邮 箱：`lirich674@gmail.com`/`2833919126@qq.com  `
 * 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：slam算法工程师
 
